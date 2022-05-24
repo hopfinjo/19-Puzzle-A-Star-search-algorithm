@@ -5,7 +5,7 @@ This code uses the A* algorithm, or Iterative Deepening Search with cutoff.
 
 An example-input would be:
 
-&nbsp;&nbsp;&nbsp;&nbsp;2--1------        
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2--1------        
 -------6--3------         
 -4-5--12-7--8--9   
 10-11-13-17-14-15    
