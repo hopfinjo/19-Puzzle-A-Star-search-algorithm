@@ -4,12 +4,12 @@ This code is made to solve a variant of the 8-puzzle where there are 19 tiles pl
 This code uses the A* algorithm, or Iterative Deepening Search with cutoff.
 
 An example-input would be:
-       2  1          
-       6  3          
+------ 2  1 -----        
+------ 6  3 -----         
  4  5 12  7  8  9    
 10 11 13 17 14 15    
-       0 16          
-      18 19   
+ ------0 16------        
+ -----18 19------
       
 The goal state which we are searching for is:
         0  1      
