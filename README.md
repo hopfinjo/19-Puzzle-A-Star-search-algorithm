@@ -7,7 +7,7 @@ An example-input would be:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2--1------        
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6--3------         
- 4 5&nbsp;&nbsp12 7&nbsp;&nbsp;8&nbsp;&nbsp;9   
+ 4 5&nbsp;&nbsp;12 7&nbsp;&nbsp;8&nbsp;&nbsp;9   
 10 11 13-17-14-15    
 -------0--16------        
 -------18-19------
